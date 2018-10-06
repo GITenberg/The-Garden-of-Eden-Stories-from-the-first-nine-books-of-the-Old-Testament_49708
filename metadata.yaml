@@ -21,6 +21,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'The Garden of Eden
 
   Stories from the first nine books of the Old Testament'
